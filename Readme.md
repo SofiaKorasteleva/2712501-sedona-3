@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Софья Корастелева](https://up.htmlacademy.ru/htmlcss-individual/3/user/2712501).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
 
 ---
 
