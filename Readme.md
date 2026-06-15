@@ -2,6 +2,7 @@
 
 * Студент: [Софья Корастелева](https://up.htmlacademy.ru/htmlcss-individual/3/user/2712501).
 * Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
+* Сайт: [Мой проект Седона](https://sofiakorasteleva.github.io/2712501-sedona-3/)
 
 ---
 
